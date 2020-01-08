@@ -1,26 +1,26 @@
-# DeleteMe
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
 
-## Development server
+# Angular TODO App Conversion to Ionic
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+In this repository you are given a working Angular TODO Application. In this challenge your goal as a team is to create a new application in Ionic 4 that has the same functionality but using Ionic's pre-built components. 
+See https://ionicframework.com/docs for ideas on components to use. Some students use Ionic Cards, List, Checkbox and input. 
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Setup 
+Create a repository and add the other user. 
 
-## Build
+## Requirements
+1. App must have a login and register page
+2. A user must be able to add todos
+3. A user must be able to view added todos
+4. A user should be able to remove a todo.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+**HINT** You can use the existing logic from the application
 
-## Running unit tests
+### WorkFlow
+In this pair project you and another person will work on the same repository on the **master branch**. After completing a part of the app you want to share with your partern you will need to **commit** your work and **push**. The other user will then need to **pull** the work. 
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+**NOTE** IF you both touch the same files you will get a merge conflict and will have to resolve that.
 
 ## Further help
 
